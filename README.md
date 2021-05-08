@@ -20,4 +20,5 @@ the parameters present in the PostfreSQL configuration file (Autovacuum, Memory,
 - https://www.2ndquadrant.com/en/
 - https://www.postgresql.org/docs/10/pgbench.html
 - https://www.postgresql.org/docs/9.4/pgstatstatements.html
+- https://github.com/darold/pgbadger
 
