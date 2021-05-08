@@ -1,6 +1,6 @@
 # PostgreSQL Parameter Tuning CheatSheet
 <div style="text-align: justify">
-PostgreSQL is a free and open-source relational database management engine. Often ranked among the top database choice (with or without financial considerations), has also been [referred to as the worlds best database](https://www.2ndquadrant.com/en/blog/postgresql-is-the-worlds-best-database/) with respect to performance, transperant security, multiversion concurrancy, stability, licensing, documentation by many.
+PostgreSQL is a free and open-source relational database management engine. Often ranked among the top database choice (with or without financial considerations), has also been [referred to as the worlds best database]:https://www.2ndquadrant.com/en/blog/postgresql-is-the-worlds-best-database/ with respect to performance, transperant security, multiversion concurrancy, stability, licensing, documentation by many.
   </div>
 
 ## Criterias for achieving a highly performant PostfreSQL database
